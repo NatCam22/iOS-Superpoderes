@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7130443F-DA74-42CE-88B3-6F34DEA4D48D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A50A3D0-A62F-4F45-8E4D-EC7DD09B1349"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarvelHeros/ViewModel/SeriesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "loadSeries(hero:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A50A3D0-A62F-4F45-8E4D-EC7DD09B1349 - 8dcfcd518ed9a621"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 (MarvelHeros.SerieItem) -&gt; () in MarvelHeros.SeriesViewModel.loadSeries(hero: Swift.Optional&lt;MarvelHeros.Hero&gt;) -&gt; ()"
+                  moduleName = "MarvelHeros"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliahernandez/Documents/Dev/MarvelHeros/MarvelHeros/ViewModel/SeriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "1A50A3D0-A62F-4F45-8E4D-EC7DD09B1349 - 8dcfcd518ed9a600"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in closure #1 (MarvelHeros.SerieItem) -&gt; () in MarvelHeros.SeriesViewModel.loadSeries(hero: Swift.Optional&lt;MarvelHeros.Hero&gt;) -&gt; ()"
+                  moduleName = "MarvelHeros"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliahernandez/Documents/Dev/MarvelHeros/MarvelHeros/ViewModel/SeriesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
